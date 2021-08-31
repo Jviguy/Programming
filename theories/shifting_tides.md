@@ -1,6 +1,6 @@
-# The Shifiting Tides of Programming
+# The Shifting Tides of Programming
 
-To start this entry we will begin with a little bit of background
+To start this entry we will begin with a little of background
 
 ## The background of programming before the 2010-2021(year of writing) range
 Back in these days programming was a lot more lucrative than it is now.
@@ -13,7 +13,7 @@ This is where the shifting tides occur.
 
 As years progress we have actually started to see Programming and general computer classes in schools.
 
-But all circulum taught in these classes are really dry and never enough to even barely give kids a start.
+But all curriculum taught in these classes are really dry and never enough to even barely give kids a start.
 
 Examples are that of High School AP CSP and AP CSA classes.
 
@@ -21,7 +21,7 @@ After personally taking these classes I realized that our education in Computer 
 
 Even in AP CSA the last AP computer science class you take I have felt no challenges in it.
 
-And heres where the tides really begin to shift.
+And heroes where the tides really begin to shift.
 
 ### The effects of a generation raised on video games
 
@@ -33,29 +33,29 @@ Video Games usually required one of those two traits to really be there and deve
 
 Like puzzle games and racing really required solution mindsets to find solutions for puzzles and or problems during races.
 
-Games like fps and such were really based on predicition mindsets predicitating every angle at which someone might come and using your senses to confirm your guesses.
+Games like fps and such were really based on prediction mindsets precipitating every angle at which someone might come and using your senses to confirm your guesses.
 
-Now as far as I can tell the predicition based mindsets that were facilated by the video games in this generation is more prevalent to programming than the solution mindset.
+Now as far as I can tell the prediction based mindsets that were facilitated by the video games in this generation is more prevalent to programming than the solution mindset.
 
-As being able to predict really well in program allows for alot. Prediciting run outputs, finding errors and algorithimic thinking.
+As being able to predict really well in program allows for a lot. Predicting run outputs, finding errors and algorithmic thinking.
 
 Now with this said how does this cause a shift in tide.
 
 #### The Shift
 
-With all my past said evidence of the gaming generation I can efficatively prove why education in programming is going to fail and shift.
+With all my past said evidence of the gaming generation I can effectively prove why education in programming is going to fail and shift.
 
-And why old languages like Java and C++ will soon become obselete
+And why old languages like Java and C++ will soon become obsolete
 
 As more kids with the gaming mindsets move into the highschool age group they start to realize the great gifts they have been given for the time spent as kids.
 
-As for me it happened in the summer of eight grade. The story starts like this: I wanted to make a minecraft server for me and my friends on ps4 and so I found a server software for mcpe.
+As for me, it happened in the summer of eight grade. The story starts like this: I wanted to make a minecraft server for me and my friends on ps4, and so I found a server software for mcpe.
 
 First off I found a PHP Server Software called PMMP, and from there I started to program plugins and try to understand it.
 
-And thats when I learned of my amplitude in programming and why I skyrocketed ahead of most other plugin programmers in just four months.
+And that's when I learned of my amplitude in programming and why I skyrocketed ahead of most other plugin programmers in just four months.
 
-As far as I can tell i'm probably not the only kid who is going to experience or has experienced this and it will probably countinue to dish out this way.
+As far as I can tell I'm probably not the only kid who is going to experience or has experienced this, and it will probably continue to dish out this way.
 
 As the normality of programming education now has to be edited to include the traits and base amplitude of newer generations as we become more bonded with tech.
 
