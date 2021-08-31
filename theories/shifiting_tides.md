@@ -55,7 +55,7 @@ First off I found a PHP Server Software called PMMP, and from there I started to
 
 And thats when I learned of my amplitude in programming and why I skyrocketed ahead of most other plugin programmers in just four months.
 
-As far as I can tell i'm probably not the only kid who is going to experience this and it will probably countinue to dish out this way.
+As far as I can tell i'm probably not the only kid who is going to experience or has experienced this and it will probably countinue to dish out this way.
 
 As the normality of programming education now has to be edited to include the traits and base amplitude of newer generations as we become more bonded with tech.
 
